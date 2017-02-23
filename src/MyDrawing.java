@@ -4,6 +4,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 // Hey Blake how about this weather? 
+// pretty freaking swell Jonny!
 
 public class MyDrawing extends JPanel {
 	private Cat cat;
